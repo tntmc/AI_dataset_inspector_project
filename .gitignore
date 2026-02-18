@@ -1,0 +1,16 @@
+__pycache__
+.pytest_cache
+.streamlit
+.venv
+analysis/__pycache__
+analysis/pretest
+rag/__pycache__
+reasoning/__pycache__
+reasoning/pretest
+data
+vectorstore
+catatan.txt
+prompts.txt
+test_profiling.py
+test_prompt.py
+test_reasoning.py
